@@ -17,6 +17,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+react-scripts
+robofriends@*
 
 npm-debug.log*
 yarn-debug.log*
